@@ -1,3 +1,4 @@
 # DeltaRobot_CAD
 
-![plot](assembly of delta robot2.JPG)
+For more detail, please check on stepbystep-robotics.com
+![](./assembly of delta robot2.JPG)
