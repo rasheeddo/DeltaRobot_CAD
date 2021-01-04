@@ -2,4 +2,4 @@
 
 For more detail, please check on stepbystep-robotics.com
 
-![](image/robot.png)
+![](image/robot.PNG)
